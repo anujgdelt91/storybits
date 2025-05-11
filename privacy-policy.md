@@ -25,19 +25,18 @@ This Services does not uses these “cookies” explicitly. However, the app may
   1. comply with central, state or local laws that require disclosure;
   2. to respond to law enforcement officials or to judicial orders, subpoenas or other process;
   3. to avert a serious threat to health or safety;
-  4. to enable the provision of Services opted by You including collating all User medical records, reports and other data;
-  5. to enable the viewing of content in Your interest;
-  6. to copy, reproduce, store, distribute, publish, export, adapt, edit and translate Personal Information to the extent reasonably required for the provision of Services by StoryBits;
-  7. to provide better products and Services and to programmatically use Your data to give You contextual Services.
-  8. to fulfil Your requests for certain Services;
-  9. to contact You about Our Services;
-  10. to respond to Your comments, reviews and questions and provide better customer service;
-  11. to track Your activity on Our digital platforms and personalise and improve Your experience;
-  13. to understand Your preferences and to enhance, personalise, and customise Your experience using Our App;
-  13. to contact You about Our Services;
-  14. to use Your information to operate, improve and maintain our site, to prevent fraud and abuse;
-  15. to fulfil any other purpose for which You provide Us Personal Information; and
-  16. for any other purpose for which You give Us authorisation.
+  4. to enable the viewing of content in Your interest;
+  5. to copy, reproduce, store, distribute, publish, export, adapt, edit and translate Personal Information to the extent reasonably required for the provision of Services by StoryBits;
+  6. to provide better products and Services and to programmatically use Your data to give You contextual Services.
+  7. to fulfil Your requests for certain Services;
+  8. to contact You about Our Services;
+  9. to respond to Your comments, reviews and questions and provide better customer service;
+  10. to track Your activity on Our digital platforms and personalise and improve Your experience;
+  11. to understand Your preferences and to enhance, personalise, and customise Your experience using Our App;
+  12. to contact You about Our Services;
+  13. to use Your information to operate, improve and maintain our site, to prevent fraud and abuse;
+  14. to fulfil any other purpose for which You provide Us Personal Information; and
+  15. for any other purpose for which You give Us authorisation.
 
 2. Please note that We may use Non-Personal Information created by Us without restriction. We may retain Non-Personal Information and will continue to use Non-Personal Information as permitted under this Privacy Policy and applicable law.
 
@@ -68,9 +67,9 @@ We collect information from your device in some cases. The information will be u
 
 ### User's rights
 1. All the information provided to StoryBits by a User, including Personal Information, is voluntary. User has the right to withdraw consent at any time, in accordance with the terms of this Privacy Policy and the Terms of Use, but please note that withdrawal of consent will not be retroactive i.e. We cannot delete the Personal Information for which We are custodians on behalf of Third Party Service Providers. Further, if a Third Party Service Provider ceases to be engaged with StoryBits, We may be contractually obligated to give such Third Party Service Provider a data export, however, given the nature of data, User may continue to co-owners of such data and StoryBits will continue to keep the Personal Information including User data for continues provision of Services to User.
-2. Users can access, modify, correct and delete the Personal Information. However, if the User updates his/ her/ its information, StoryBits may keep a copy of the information which User originally provided to StoryBits in its archives for User documented herein. In case the User seeks to update or correct, his/ her/ its Personal Information, the User may exercise these rights by emailing StoryBits at StoryBits.dev@gmail.com and communicate the change(s) for updating StoryBits’s records.
+2. Users can access, modify, correct and delete the Personal Information. However, if the User updates his/ her/ its information, StoryBits may keep a copy of the information which User originally provided to StoryBits in its archives for User documented herein. In case the User seeks to update or correct, his/ her/ its Personal Information, the User may exercise these rights by emailing StoryBits at anuj.gdelt@gmail.com and communicate the change(s) for updating StoryBits’s records.
 3. If a User, as a casual visitor, has inadvertently browsed StoryBits App prior to reading the Privacy Policy and the Terms of Use, and such User does not agree with the manner in which such information is obtained, stored or used, merely quitting this browser application should ordinarily clear all temporary cookies installed by StoryBits. All visitors, however, are encouraged to use the "clear cookies" functionality of their browsers to ensure such clearing/ deletion, as StoryBits cannot guarantee, predict or provide for the behaviour of the equipment of all the visitors of the App.
-4. If a User has inadvertently submitted any Personal Information to StoryBits prior to reading the Privacy Policy and Terms of Use, and such User does not agree with the manner in which such information is collected, stored or used, then such User can ask StoryBits, by sending an email to StoryBits.dev@gmail.com containing the rectification required, whether StoryBits is keeping Personal Information about such User, and every User is also entitled to require StoryBits to delete and destroy all such information relating to such user (but not other Users) in its possession.
+4. If a User has inadvertently submitted any Personal Information to StoryBits prior to reading the Privacy Policy and Terms of Use, and such User does not agree with the manner in which such information is collected, stored or used, then such User can ask StoryBits, by sending an email to anuj.gdelt@gmail.com containing the rectification required, whether StoryBits is keeping Personal Information about such User, and every User is also entitled to require StoryBits to delete and destroy all such information relating to such user (but not other Users) in its possession.
 5. In case User does not provide its information or consent for usage of Personal Information or subsequently withdraws consent for usage of the Personal Information so collected, StoryBits reserves the right to discontinue Services for which the said information was sought.
 ### Children’s Privacy  
 This Services also address anyone under the age of 13. We do not mandate to collect personal identifiable information from children under 13. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information which you want us to delete, please contact us so that we will be able to do necessary actions.
